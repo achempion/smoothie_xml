@@ -5,9 +5,9 @@ How to work with XML API without heartache
 ## Installation
 
 Add this line to your application's Gemfile:
-
+```ruby
     gem 'smoothie_xml', git: 'achempion/smoothie_xml'
-
+```
 ## Usage
 
 ```ruby
