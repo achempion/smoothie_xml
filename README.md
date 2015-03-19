@@ -1,4 +1,4 @@
-# SmoothieXml
+# SmoothieXML
 
 How to work with XML API without heartache
 
