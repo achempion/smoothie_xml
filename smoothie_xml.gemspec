@@ -5,7 +5,7 @@ require 'smoothie_xml/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "smoothie_xml"
-  spec.version       = SmoothieXml::VERSION
+  spec.version       = SmoothieXML::VERSION
   spec.authors       = ["Boris Kuznetsov"]
   spec.email         = ["achempion@gmail.com"]
   spec.summary       = %q{Simple library for creating XML from JSON}
