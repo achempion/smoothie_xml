@@ -1,6 +1,6 @@
 # SmoothieXML
 
-How to work with XML API without maral pain
+How to work with XML API without moral pain
 
 ## Installation
 
